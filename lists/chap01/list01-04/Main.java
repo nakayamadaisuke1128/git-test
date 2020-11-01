@@ -5,5 +5,6 @@ public class Main {
             sb.append("Java");
         }
         String s = sb.toString();
+        System.out.println(s);
     }
 }
